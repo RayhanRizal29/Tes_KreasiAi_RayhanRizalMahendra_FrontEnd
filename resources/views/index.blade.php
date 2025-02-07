@@ -215,8 +215,8 @@
                   <div class="card">
                       <img src="{{ asset('img/ind.jpg') }}" class="card-img-top" alt="Gambar 1">
                       <div class="card-body">
-                          <h5 class="card-title">Judul Card 1</h5>
-                          <p class="card-text">Deskripsi singkat tentang gambar ini.</p>
+                          <h5 class="card-title">Wisata pantai kelingking</h5>
+                          <p class="card-text">Banyak turis wisatawan asing pergi berlibur pada saat tahun baru 2024.</p>
                           <a href="#" class="btn btn-primary">Lihat Detail</a>
                       </div>
                   </div>
@@ -224,10 +224,10 @@
              
               <div class="col-md-4">
                   <div class="card">
-                      <img src="{{ asset('img/gambar.jpg') }}" class="card-img-top" alt="Gambar 2">
+                      <img src="{{ asset('img/jogja.jpg') }}" class="card-img-top" alt="Gambar 2">
                       <div class="card-body">
-                          <h5 class="card-title">Judul Card 2</h5>
-                          <p class="card-text">Deskripsi singkat tentang gambar ini.</p>
+                          <h5 class="card-title">Berlibur ke Jogja</h5>
+                          <p class="card-text">Malioboro menjadi salah satu destinasi yang sering dikunjungi oleh wisatawan.</p>
                           <a href="#" class="btn btn-primary">Lihat Detail</a>
                       </div>
                   </div>
@@ -237,8 +237,8 @@
                   <div class="card">
                       <img src="{{ asset('img/bg.jpg') }}" class="card-img-top" alt="Gambar 3">
                       <div class="card-body">
-                          <h5 class="card-title">Judul Card 3</h5>
-                          <p class="card-text">Deskripsi singkat tentang gambar ini.</p>
+                          <h5 class="card-title">Mt. Merbabu</h5>
+                          <p class="card-text">Nikmati perjalanan mendaki untuk mencapai lautan awan yang indah.</p>
                           <a href="#" class="btn btn-primary">Lihat Detail</a>
                       </div>
                   </div>
